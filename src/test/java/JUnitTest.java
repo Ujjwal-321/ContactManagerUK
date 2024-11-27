@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit5TestClass.java to edit this template
  */
-
+//This is my comment
 import com.mycompany.ICE4.Contact;
 import com.mycompany.ICE4.ContactManager;
 import org.junit.jupiter.api.BeforeEach;
